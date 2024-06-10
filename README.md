@@ -1,5 +1,5 @@
 ## Hola, soy Yulis osorio 👋
-![](https://github.com/yulisaosorio/yulisaosorio/commit/9de158a5bc225bf5ef84661f373468cb472eebf1)
+![](https://github.com/yulisaosorio/yulisaosorio/blob/9de158a5bc225bf5ef84661f373468cb472eebf1/images%20(4).jpg)
 
 
 <!--
