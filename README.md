@@ -31,10 +31,10 @@
 <td width="50%">
 <h3 align="center">Portafolio Virtual</h3>
 <div align="center">                                       
-<a href="" target="_blank"><img src="https://github.com/yulisaosorio/yulisaosorio/blob/ae1987055a70696c69633e7cbe8dec38e35a69c2/portafolio.jpeg" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/yulisaosorio/portafolio_hojaVida" target="_blank"><img src="https://github.com/yulisaosorio/yulisaosorio/blob/ae1987055a70696c69633e7cbe8dec38e35a69c2/portafolio.jpeg" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
 <p>
-<a href="" target="_blank">
+<a href="https://github.com/yulisaosorio/portafolio_hojaVida" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
