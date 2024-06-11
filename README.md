@@ -37,7 +37,7 @@
                <br>
 <h3 align="center">Portafolio Virtual</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://github.com/yulisaosorio/yulisaosorio/blob/ae1987055a70696c69633e7cbe8dec38e35a69c2/portafolio.jpeg" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
 <p>
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
