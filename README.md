@@ -1,6 +1,7 @@
 ## Hola, soy Yulis osorio 👋
-![](https://github.com/yulisaosorio/yulisaosorio/blob/9de158a5bc225bf5ef84661f373468cb472eebf1/images%20(4).jpg)
-
+<div text-align="center">
+<img  width="500px" heidth="500px" src="https://github.com/yulisaosorio/yulisaosorio/blob/9de158a5bc225bf5ef84661f373468cb472eebf1/images%20(4).jpg">
+</div>
 
 <!--
 **yulisaosorio/yulisaosorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
