@@ -18,7 +18,7 @@
 <td width="50%">
 <h3 align="center">Administrador Educativo</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://github.com/yulisaosorio/yulisaosorio/blob/d1e612d9d0d8fbde163812b855de5df548d561d4/administradoEducativo.jpeg" width="400" alt="Curso básico android"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>Proyecto final "texis" en el cual se hace la practicas de 6 meses, donde se pone en practica lo aprendido, se comprueba los conocimientos 
+<p>Proyecto final en el cual se hace la practicas de 6 meses, donde se pone en practica lo aprendido, se comprueba los conocimientos 
   y se cumple con lo requerido. El proyecto se desarrolla en Php, react, Html, Css, JavaScript y MySql.</p>
 </div>
                                                                                       
