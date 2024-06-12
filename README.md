@@ -18,9 +18,9 @@
 <td width="50%">
 <h3 align="center">Administrador Educativo</h3>
 <div align="center">
-<a href="" target="_blank"><img src="https://github.com/yulisaosorio/yulisaosorio/blob/d1e612d9d0d8fbde163812b855de5df548d561d4/administradoEducativo.jpeg" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/yulisaosorio/web-PHP" target="_blank"><img src="https://github.com/yulisaosorio/yulisaosorio/blob/d1e612d9d0d8fbde163812b855de5df548d561d4/administradoEducativo.jpeg" width="400" alt="Curso básico android"></a>
 <p>
-<a href="" target="_blank">
+<a href="https://github.com/yulisaosorio/web-PHP" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
