@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hola, soy Yulisa 👋</h1>
-<img align="center"  width="500px" heidth="500px" src="https://github.com/yulisaosorio/yulisaosorio/blob/9de158a5bc225bf5ef84661f373468cb472eebf1/images%20(4).jpg">
+<img align="center"  width="500px" heidth="500px" src="https://github.com/yulisaosorio/yulisaosorio/blob/cbde8e44179db9f638a21f42eb74f47f295ef0ac/2.png">
 </div>
 <br>
 <br>
